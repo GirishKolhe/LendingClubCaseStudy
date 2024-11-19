@@ -57,3 +57,4 @@ Give credit here.
 
 ## Contact
 Created by [@GobburiAishwarya] and [@GirishKolhe] - feel free to contact us!
+Created by [@AishwaryaGobburi](https://github.com/GobburiAishwarya) and [@GirishKolhe](https://github.com/GirishKolhe) - feel free to contact us!
