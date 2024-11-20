@@ -50,7 +50,6 @@ lender when the borrower refuses to pay or runs away with the money owed.
 - Seaborn - version 0.13.2
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by EDA session on Upgrad by [S Anand](https://www.linkedin.com/in/sanand0)
 - UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
